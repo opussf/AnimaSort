@@ -1,0 +1,10 @@
+## Interface: @INTERFACE@
+## Title: AnimaSort
+## Notes: Pushes Anima items into a bag. @VERSION@
+## Author: opussf
+## Version: @VERSION@
+## Description: Pushes Anima items into a bag.
+## SavedVariables:
+## SavedVariablesPerCharacter:
+AnimaSort.lua
+AnimaSort.xml

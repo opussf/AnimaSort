@@ -1,4 +1,4 @@
-<project name="AnimeSort" default="package">
+<project name="AnimaSort" default="package">
 	<!-- version 7.1 -->
 
 	<tstamp/>
